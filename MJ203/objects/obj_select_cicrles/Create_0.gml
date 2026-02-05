@@ -1,0 +1,1 @@
+global.select_circles = false;

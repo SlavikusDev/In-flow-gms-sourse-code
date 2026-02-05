@@ -1,0 +1,1 @@
+enemy_health_ghost -= global.damage_katana;

@@ -1,0 +1,1 @@
+enemy_health_eye -= global.damage_katana;

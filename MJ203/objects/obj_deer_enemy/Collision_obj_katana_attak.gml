@@ -1,0 +1,1 @@
+enemy_health_deer -= global.damage_katana;

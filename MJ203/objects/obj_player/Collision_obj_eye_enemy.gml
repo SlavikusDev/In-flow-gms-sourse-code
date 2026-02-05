@@ -1,0 +1,1 @@
+global.health_player -= global.enemy_speed_eye;

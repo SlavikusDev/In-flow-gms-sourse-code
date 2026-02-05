@@ -1,0 +1,1 @@
+enemy_health_slime -= global.damage_particle;

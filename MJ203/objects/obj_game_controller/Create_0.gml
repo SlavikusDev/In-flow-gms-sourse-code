@@ -1,0 +1,10 @@
+global.point = 0;
+global.point_max = 100;
+global.point_min = 0;
+global.wave = 0;
+global.flow = false;
+global.weapon_auto_bullet = false;
+global.weapon_circles = false;
+global.weapon_katana = false;
+t = 900;
+depth = -10000
